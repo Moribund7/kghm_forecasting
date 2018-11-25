@@ -1,5 +1,5 @@
 *.csv
-*.prm
+*.prn
 /.ipy*	
 *check*
 *nbcon*
