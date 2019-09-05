@@ -6,3 +6,5 @@
 /data/*
 notebooks/wyniki.pdf
 notebooks/dataframe.tex
+notebooks/wyniki.pkl
+notebooks/Prediction.ipynb
